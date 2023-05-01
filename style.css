@@ -1,0 +1,59 @@
+
+
+
+.bg-top{
+    background-color: rgb(98, 228 , 255);
+}
+
+.position-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.direction-col{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-margin{
+    margin: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'oswald', sans-serif;
+}
+
+.documentos-footer{
+    font-size: 18px;
+    font-family: 'oswald', sans-serif;
+}
+
+.contacto-footer{
+    font-size: 20px;
+    font-family: 'kanit', sans-serif;
+    
+}
+
+
+.hover:hover{
+    font-weight: bold;
+    padding: 5px;
+    background-color: rgb(10,10,60);
+    color: azure;
+  }
+
+.nav-hover:hover{
+    font-weight: bold;
+    padding: 5px;
+    background-color: rgb(240, 240, 247);
+}
+
+.top-padding{
+    padding: 20px 0px 0px 0px;
+}
